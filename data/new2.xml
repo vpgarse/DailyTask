@@ -1,0 +1,59 @@
+<REQUEST_GROUP MISMOVersionID="2.4">
+<REQUESTING_PARTY _Identifier="527747" _TransactionIdentifier="PAT0203202203"/>
+<REQUEST LoginAccountIdentifier="GDMSTest" LoginAccountPassword="GTest@2017">
+<KEY _Name="ContactRelation" _Value="N/A"/>
+<KEY _Name="Custom2" _Value=""/>
+<KEY _Name="FHA_Flag" _Value="N"/>
+<KEY _Name="Requires_UAD" _Value="Y"/>
+<KEY _Name="RRRNumber" _Value="GDMS-0203202203"/>
+<KEY _Name="Settlement_Date" _Value="1900-01-01T00:00:00"/>
+<KEY _Name="TIL_Date" _Value="1900-01-01T00:00:00"/>
+<KEY _Name="DateRequested" _Value="2021-06-04T00:00:00"/>
+<REQUEST_DATA>
+<VALUATION_REQUEST _ActionType="Original" _CommentText=" In the event an Interior inspection is not possible due to COVID-19, SBNA authorizes appraiser to complete an assisted appraiser inspection  following SBNA requirements. " _RushIndicator="N">
+<SERVICE_PAYMENT _AccountExpirationDate="1900-01" _AccountHolderCity="" _AccountHolderName="" _AccountHolderPostalCode="" _AccountHolderState="" _AccountHolderStreetAddress="" _AccountHolderStreetAddress2="" _AccountIdentifier="" _SecondaryAccountIdentifier="" _MethodType="Other" _MethodTypeOtherDescription="Bill"/>
+<LOAN>
+<_APPLICATION>
+<LOAN_PURPOSE _Type="Purchase"/>
+<MORTGAGE_TERMS AgencyCaseIdentifier="" BaseLoanAmount="67200.0000" LenderCaseIdentifier="LOAN02032022SL03" MortgageType="Conventional"/>
+<PROPERTY _City="York" _County="York" _CurrentOccupancyType="Unknown" _PostalCode="17403" _State="PA" _StreetAddress="2379 East Philadelphia Street" _StreetAddress2="" _TitleCategoryType="SingleFamily" PropertyEstimatedValueAmount="70000.0000">
+<_LEGAL_DESCRIPTION _TextDescription="See Attached Exhibit A"/>
+<SALES_HISTORY PropertySalesAmount="70000.0000"/>
+<CONTACT_DETAIL _Name="Anthony Marchino">
+<CONTACT_POINT _Type="Email" _Value="amarchio2191@gmail.com"/>
+<CONTACT_POINT _Type="Phone" _RoleType="Home" _Value="717 634-1156"/>
+<CONTACT_POINT _Type="Phone" _RoleType="Mobile" _Value=""/>
+<CONTACT_POINT _Type="Phone" _RoleType="Work" _Value="717 634-1156"/>
+</CONTACT_DETAIL>
+</PROPERTY>
+<BORROWER _UnparsedName="Luis A Rolon-Negron">
+<CONTACT_DETAIL>
+<CONTACT_POINT _Type="Email" _Value="moraimaj37@ymail.com"/>
+<CONTACT_POINT _Type="Phone" _RoleType="Home" _Value="717 634-1156"/>
+<CONTACT_POINT _Type="Phone" _RoleType="Mobile" _Value=""/>
+<CONTACT_POINT _Type="Phone" _RoleType="Work" _Value="717 634-1156"/>
+</CONTACT_DETAIL>
+</BORROWER>
+<BORROWER _PrintPositionType="CoBorrower" _UnparsedName=""/>
+</_APPLICATION>
+</LOAN>
+<_PRODUCT _CategoryDescription="Full 1004" ServiceRequestedCompletionDueDate="2021-06-02T00:00:00" ServiceRequestedPriceAmount="0.0000">
+<_NAME>
+<_FORM AppraisalFormType="Other" AppraisalFormTypeOtherDescription="Full 1004"/>
+</_NAME>
+</_PRODUCT>
+<PARTIES>
+<REVIEW_APPRAISER/>
+<REAL_ESTATE_AGENT>
+<CONTACT_DETAIL/>
+</REAL_ESTATE_AGENT>
+<LENDER _City="Boston" _PostalCode="02109" _State="MA" _StreetAddress="75 State St" _UnparsedName="Santander Empower Retail">
+<CONTACT_DETAIL>
+<CONTACT_POINT _Type="Email" _Value="diana.kent@santander.us"/>
+</CONTACT_DETAIL>
+</LENDER>
+</PARTIES>
+</VALUATION_REQUEST>
+</REQUEST_DATA>
+</REQUEST>
+</REQUEST_GROUP>

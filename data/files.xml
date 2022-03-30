@@ -1,0 +1,37 @@
+<RealEC-XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Header>
+<AckRef>1</AckRef>
+<AckRequest>NO</AckRequest>
+<Created>2022/01/24 14:10:54</Created>
+<CreatedBy>13514809</CreatedBy>
+<Format>RealEC</Format>
+<GMTOffset>-5</GMTOffset>
+<SourceApp>ELC App</SourceApp>
+<SourceID>6513</SourceID>
+<SourceVer>1</SourceVer>
+<UserName>ITTest3</UserName>
+<Version>1</Version>
+<CorrelationIdentifier>04304b72c24e4f68bea5ac7d79f2958c</CorrelationIdentifier>
+</Header>
+<Transaction>
+<TransactionID>PT24012022SL1</TransactionID>
+<ProductList>
+<Count>1</Count>
+<Product>
+<Event>
+<EventDate>2022/01/24 14:10:54</EventDate>
+<RECCode>706</RECCode>
+<AddlEventDataList>
+<AddlEventData>
+<DataName>ADDLINFO</DataName>
+<DataValue>No</DataValue>
+</AddlEventData>
+</AddlEventDataList>
+<Comment>Appraisal Review Complete/Accepted</Comment>
+<EventID>3099439585</EventID>
+</Event>
+<UniqueID>1</UniqueID>
+</Product>
+</ProductList>
+</Transaction>
+</RealEC-XML>
